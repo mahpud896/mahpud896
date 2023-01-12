@@ -20,7 +20,7 @@
 <img height=21 src="https://komarev.com/ghpvc/?username=mahpud896">
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=S+U+L+A+I+M+A+N++L" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=M+A+H+P+U+D+8+9+6" />
 </p>
 <div height='45' align="center">
 <h2>Donate me via trakteer: <br>
