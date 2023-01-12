@@ -4,7 +4,7 @@
 <b>
 <p align='center'><a href="https://api.daily.dev/get?r=mahpud896"><img src="https://raw.githubusercontent.com/mahpud896/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
-![mahpud896's card name](https://cardivo.vercel.app/api?name=SULAIMAN%20L&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/mahpud896/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=mahpud896&pattern=leaf&colorPattern=%23eaeaea)
+![mahpud896's card name](https://cardivo.vercel.app/api?name=mahpud896%20L&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/mahpud896/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=mahpud896&pattern=leaf&colorPattern=%23eaeaea)
 
 </b>
 
@@ -24,11 +24,11 @@
 </p>
 <div height='45' align="center">
 <h2>Donate me via trakteer: <br>
-<a href="https://trakteer.id/sulaiman-l/tip"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
+<a href="https://trakteer.id/mahpud896/tip"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
 </h2>
 <h2>Contact me: <br>
 <a href="https://github.com/mahpud896"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
-<a href="https://facebook.com/sulaiman.xl"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+<a href="https://facebook.com/mahpud896.xl"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
 </h2>
 <!---
 mahpud896/mahpud896 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
   You can reach me here:<br><br>
-  <a href="mailto:slinfinity69@gmail.com" style="text-decoration: none;">
+  <a href="mailto:mahpuddeveloper@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/" style="text-decoration: none;">
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
   <a href="http://github.com/mahpud896" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/github-%2300C300?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/sulaiman.xl" style="text-decoration: none;">
+  <a href="https://facebook.com/mahpud896.xl" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/facebook-%231DA1F2?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://instagram.com/" style="text-decoration: none;">
@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
     <summary>Emmmm...<b></b></summary><br/>
 <p align='center'><a href="https://api.daily.dev/get?r=mahpud896"><img src="https://raw.githubusercontent.com/mahpud896/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
-![mahpud896's card name](https://cardivo.vercel.app/api?name=SULAIMAN%20L&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/mahpud896/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=mahpud896&pattern=leaf&colorPattern=%23eaeaea)
+![mahpud896's card name](https://cardivo.vercel.app/api?name=mahpud896%20L&description=Hi,%20everyone!%20and%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://raw.githubusercontent.com/mahpud896/.github/main/kurumiwangy3.jpg?v=4&backgroundColor=%23ecf0f1&twitter=/&github=mahpud896&pattern=leaf&colorPattern=%23eaeaea)
 
 ![Metrics](https://metrics.lecoq.io/mahpud896?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
 </details>
 
 <p align='center'>
-   <a href="https://www.facebook.com/sulaiman.xl"><img height="100" src="https://raw.githubusercontent.com/mahpud896/.github/main/speed.svg"></a></p>
+   <a href="https://www.facebook.com/mahpud896.xl"><img height="100" src="https://raw.githubusercontent.com/mahpud896/.github/main/speed.svg"></a></p>
 <p align='center'>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
